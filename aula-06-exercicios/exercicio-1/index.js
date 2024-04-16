@@ -1,4 +1,4 @@
-let nome;
+relet nome;
 let idade;
 console.log(typeof nome);
 console.log(typeof idade);
@@ -14,6 +14,8 @@ console.log(typeof nome);
 console.log(typeof idade);
 
 /*Agora que os valores foram atribuídos, o javascript automaticamente
-determina seus tipos baseado nos dados inseridos.*/
+determina seus tipos baseado nos dados inseridos. Entretanto, mesmo que tenhamos digitado apenas números na pergunta "idade",
+o prompt sempre retorna uma string do que foi retornado. Portanto, 2 strings.
+E é por isso que também é possivel usar o "+" para concatenar, já que tipos iguais estão sendo somados.*/
 
-alert("Olá, ",nome,", você tem ",idade," anos.");
+alert("Olá, "+nome,", você tem "+idade," anos.");
