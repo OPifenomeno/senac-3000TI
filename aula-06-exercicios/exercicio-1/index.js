@@ -14,6 +14,6 @@ console.log(typeof nome);
 console.log(typeof idade);
 
 /*Agora que os valores foram atribuídos, o javascript automaticamente
-determina seus tipos baseado no dado inserido.*/
+determina seus tipos baseado nos dados inseridos.*/
 
 alert("Olá, "+nome+", você tem "+idade," anos.");
