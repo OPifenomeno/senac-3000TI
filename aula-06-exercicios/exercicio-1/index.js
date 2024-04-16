@@ -16,4 +16,4 @@ console.log(typeof idade);
 /*Agora que os valores foram atribuídos, o javascript automaticamente
 determina seus tipos baseado nos dados inseridos.*/
 
-alert("Olá, "+nome+", você tem "+idade," anos.");
+alert("Olá, ",nome,", você tem ",idade," anos.");
