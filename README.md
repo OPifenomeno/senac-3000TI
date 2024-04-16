@@ -1,5 +1,5 @@
 # senac-3000TI
-Meu nome Emanuel, ja estudei programação há algum tempo e agora estou buscando todas as fontes de conhecimento que posso encontrar.
+Meu nome é Emanuel, ja estudei programação há algum tempo e agora estou buscando todas as fontes de conhecimento que posso encontrar.
 
 imagine
 
@@ -23,3 +23,4 @@ sone sobe sobe
 e nunca está contente
 
 eu estou com tanto sono que eu oderia dormir igual um encachaladi bebyn bi neui da orala orecusabdi de yna oubga ora desestressar pelo amor de deus eu nao aguento mais faculdade e  trabalho
+dormi digitando
